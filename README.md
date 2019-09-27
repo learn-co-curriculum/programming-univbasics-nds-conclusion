@@ -35,6 +35,27 @@ structures can be intimidating, we learned a process to familiarize ourselves
 with complex data, learn about complex data, and then process complex data into
 _insights_.
 
+When you get stuck doing any work that involves processing data in an NDS,
+refer to these labs and this process to get un-stuck:
+
+1. Understand the NDS
+  * "Pretty-Print" NDS with `pp`
+  * Home-Grown Pretty-Print NDS
+2. Use `[]` to verify your understanding from Step 1
+  * Print values to verify your understanding
+  * Leave code comments and documentation for yourself
+3. Wrap uses of `[]` from Step 2 into new methods
+  * Create simple methods with meaningful names ("First-Order Methods")
+  * Ensure "First-Order Methods" use arguments to create flexibility
+4. See-saw between bottom-up and top-down method writing
+  * Write a method that provides an insight e.g. `oldest_student`
+  * Evaluate your First Order Methods
+  * Can you use your First-Order Methods to build the insight method's
+    implementation?
+    * **YES**: Great! Your method is done!
+    * **NO**: Build a new method that combines _other_ methods to get closer to what the insight method needs. Repeat step 4
+5. Insight method provides an insight! We're done!
+
 Our final labs were challenging, but, we hope you can see, are very typical for
 any business that's using computers and automation to run their business
 better! From our little "Green Grocer" all the way to the largest corporations
