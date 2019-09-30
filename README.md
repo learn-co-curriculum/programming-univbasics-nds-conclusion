@@ -27,12 +27,12 @@ essential nested data structures:
 * `Hash` of `Arrays`
 * `Hash` of `Hash`es
 
-You learned to work with them and then saw that they could be together to
-create data structures that model the real world.
+You learned to work with them and then saw that they could be joined together
+("nested") to create data structures that model the real world.
 
 We then practiced programming with a _process_. Realizing that nested data
 structures can be intimidating, we learned a process to familiarize ourselves
-with complex data, learn about complex data, and then process complex data into
+with complex data, probe the complex data, and then process complex the data into
 _insights_.
 
 When you get stuck doing any work that involves processing data in an NDS,
@@ -60,7 +60,9 @@ Our final labs were challenging, but, we hope you can see, are very typical for
 any business that's using computers and automation to run their business
 better! From our little "Green Grocer" to the largest corporations
 or scientific data sets, processing NDS into _insights_ is possibly the
-briefest and most universal expression of why programmers are hired.
+briefest and most universal expression of why programmers are hired and,
+frankly, so well-paid. One programmer whose _insight_ saves their salary
+multiple-times over per year is entitled to a share of that gain.
 
 These _insights_ are the ones that can help us stop epidemics, discover new
 business processes, or make each other laugh, love, and live better lives.
